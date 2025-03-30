@@ -24,9 +24,9 @@ O objetivo é construir um protótipo em Python capaz de:
  Ex:
 caminho_arquivo = '/content/drive/MyDrive/zachary.txt'
 
-4."Execute o código principal:"
+4.**Execute o código principal:**
 main(caminho_arquivo)
 
-5."Saída esperada:"
+5.**Saída esperada:**
 Resultado: zachary.txt 34 34
 
